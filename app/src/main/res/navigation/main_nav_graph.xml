@@ -13,10 +13,18 @@
         <action
             android:id="@+id/action_homeFragment_to_qrFragment"
             app:destination="@id/qrFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_checkListFragment"
+            app:destination="@id/checkListFragment" />
     </fragment>
     <fragment
         android:id="@+id/qrFragment"
         android:name="com.example.wsamad2.ui.QrFragment"
         android:label="fragment_qr"
         tools:layout="@layout/fragment_qr" />
+    <fragment
+        android:id="@+id/checkListFragment"
+        android:name="com.example.wsamad2.ui.CheckListFragment"
+        android:label="fragment_check_list"
+        tools:layout="@layout/fragment_check_list" />
 </navigation>

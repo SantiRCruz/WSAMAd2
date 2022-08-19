@@ -21,4 +21,10 @@
     <string name="name">Name</string>
     <string name="date_and_time">Date and Time</string>
     <string name="wear_mask_keep_2m_distance_wash_hands">* Wear mask. Keep 2m distance. Wash hands.</string>
+    <string name="qr_code">QR code</string>
+    <string name="have_you_had_any_of_the_following_n_symptoms_in_the_last_24_hours">Have you had any of the following\n symptoms in the last 24 hours ?</string>
+    <string name="you_need_to_have_access_to_internet">You need to have access to internet</string>
+    <string name="try_again">Try Again</string>
+    <string name="use_this_qr_code_in_restaraunts_and_aerports_n_you_can_t_give_it_to_anyone_else">Use this QR-code in restaraunts and aerports\n You can’t give it to anyone else</string>
+    <string name="checklist">Checklist</string>
 </resources>

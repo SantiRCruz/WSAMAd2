@@ -409,7 +409,7 @@
             app:layout_constraintTop_toBottomOf="@+id/txtName" />
 
         <com.google.android.material.button.MaterialButton
-            android:id="@+id/btnSignIn"
+            android:id="@+id/btnCheck"
             android:layout_width="wrap_content"
             android:layout_height="72dp"
             android:layout_marginTop="20dp"
@@ -433,7 +433,7 @@
             android:text="@string/why_do_this"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/btnSignIn" />
+            app:layout_constraintTop_toBottomOf="@+id/btnCheck" />
 
         <View
             android:layout_width="0dp"

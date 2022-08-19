@@ -40,6 +40,7 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
 
     private fun clicks() {
         binding.imgQr.setOnClickListener { findNavController().navigate(R.id.action_homeFragment_to_qrFragment) }
+        binding.btnCheck.setOnClickListener { findNavController().navigate(R.id.action_homeFragment_to_checkListFragment) }
     }
 
     private fun obtainHistory() {
